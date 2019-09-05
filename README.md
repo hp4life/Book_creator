@@ -1,16 +1,18 @@
-# MERN_A_to_Z
+# Book_creator
 
-### To Run the app (server)
+### To Run the app server
 
-##### Make sure you are in - MERN_A_to_Z/ directory & type the following command
+##### Make sure you are in - Book_creator directory & type the following command
 
 ```sh
 $ npm install
 $ npm run app
 ```
 
-[Read My Article on LogRocket Blog about this repository](https://blog.logrocket.com/mern-stack-a-to-z-part-1/)
+### To Run the app client
 
-### You will find the front end part (MERN stack A to Z - Part-2) here.
-
-[FrontEnd - (Client)](https://github.com/nurislam03/MERN_A_to_Z_Client)
+##### Make sure you are in - client directory & type the following command
+```sh
+$ npm install
+$ npm start
+```
